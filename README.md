@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrielbravo938
-- 👀 Estou interessado em avançar no mundo da programaçã
-- 🌱 Atualmente estou aprendendo Java Script, Css eo HTML
+- 👀 Estou interessado em avançar no mundo da programação
+- 🌱 Atualmente estou aprendendo Java Script, Css e HTML
 - 💞️ I’m looking to collaborate on  outros sonhadores iniciantes como eu!
 - 📫 How to reach me  gabryell100431@gmail.ocm
 <!---
